@@ -19,7 +19,7 @@ I'm a software engineer with Understanding of UI/Ux Design knowledge i build Too
 
 - 💬 Ask me about: The web😅, really 😶.
 
-- 📫 How to reach me: https://mobile.twitter.com/coderhema,
+- 📫 How to reach me:
 
 - 😄 Pronouns: He/Him.
 

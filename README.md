@@ -4,8 +4,7 @@
 
 I'm a software engineer with Understanding of UI/Ux Design knowledge i build Tools for ease of development
 
-### Contact me:
-![](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)  ![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=olugbemiopedepo@gmail.com&logoColor=white)
 
 My technical Skills:
 

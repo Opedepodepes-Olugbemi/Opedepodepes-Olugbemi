@@ -2,7 +2,7 @@
 
 ### Hi there, i'm Coderhema 👋🏽
 
-I'm a software engineer with Understanding of UI/Ux Design, I build Tools for ease of development
+I'm a software engineer with Understanding of User Design, I build Tools for ease of development
 
 
 ### My technical Skills:
@@ -13,13 +13,12 @@ I'm a software engineer with Understanding of UI/Ux Design, I build Tools for ea
 
 - 🌱 I’m currently learning About Web3 from Moralis.
 
-- 👯 I’m looking to collaborate on Projects with Nodejs and React or related to Web3.
+- 👯 I’m looking to collaborate on Projects with Nodejs, Python and React or related to Web3.
 
-- 🤔 I’m looking for help with Cliqr.
 
-- 💬 Ask me about: The web😅, really 😶.
+- 💬 Ask me about: web development😅, really 😶.
 
-- 📫 How to reach me:
+- 📫 How to reach me: olugbemiopedepo@gmail.com
 
 - 😄 Pronouns: He/Him.
 

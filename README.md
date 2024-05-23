@@ -1,4 +1,4 @@
-![Artboard 1cover](https://user-images.githubusercontent.com/71410992/188290793-b285486e-21df-4ca7-bcb0-d2d817b3ebf9.png)
+![image](https://github.com/Opedepodepes-Olugbemi/Opedepodepes-Olugbemi/assets/71410992/e21d1503-eb8c-4211-9cac-73ea69df5c55)
 
 ### Hi there, i'm Coderhema 👋🏽
 

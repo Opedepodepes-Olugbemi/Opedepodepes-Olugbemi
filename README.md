@@ -20,9 +20,7 @@ I'm a software engineer with Understanding in User Design Experience, I build To
 
 - 📫 How to reach me: olugbemiopedepo@gmail.com
 
-- 😄 Pronouns: He/Him.
-
-- ⚡ Fun fact: A Creative Emergence.
+- ⚡ Fun fact: Creating an digi twin
 
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Opedepodepes-Olugbemi)](https://github.com/Opedepodepes-Olugbemi)

@@ -1,5 +1,3 @@
-![image](https://github.com/Opedepodepes-Olugbemi/Opedepodepes-Olugbemi/assets/71410992/e21d1503-eb8c-4211-9cac-73ea69df5c55)
-
 ### Hi there, i'm Coderhema 👋🏽
 
 I'm a software engineer with Understanding in User Design Experience, I build Tools for daily development, and softwares i find cool.
@@ -20,7 +18,7 @@ I'm a software engineer with Understanding in User Design Experience, I build To
 
 - 📫 How to reach me: olugbemiopedepo@gmail.com
 
-- ⚡ Fun fact: Creating an digi twin
+- ⚡ Fun fact: Creating a digi twin is fun
 
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Opedepodepes-Olugbemi)](https://github.com/Opedepodepes-Olugbemi)
